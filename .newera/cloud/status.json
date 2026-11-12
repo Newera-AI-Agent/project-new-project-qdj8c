@@ -1,0 +1,24 @@
+{
+  "code": "xncratctdaqg",
+  "jobId": "vm-mwdcw7g4-kwhq7vd6",
+  "relayIndex": 0,
+  "maxMinutes": 240,
+  "state": "running",
+  "step": 0,
+  "minutesLeft": 232,
+  "todoOpen": 0,
+  "updatedAt": "2026-11-12T09:41:45.314Z",
+  "byok": {
+    "active": false,
+    "source": "admin",
+    "roles": {
+      "steps": "admin",
+      "subagent": "admin",
+      "summarize": "admin",
+      "repair": "admin",
+      "consult": "admin",
+      "vision": "admin",
+      "image": "admin"
+    }
+  }
+}
